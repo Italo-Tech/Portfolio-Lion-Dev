@@ -294,12 +294,23 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url('../../public/images/img-1.png');
     background-size: cover;
     margin: 10px 5%;
     position: relative;
     z-index: 1;
     overflow: hidden;
+}
+#services .service-item:nth-child(1) {
+    background-image: url('../../public/images/web-designer.jpg');
+}
+#services .service-item:nth-child(2) {
+    background-image: url('../../public/images/dominio.jpg');
+}
+#services .service-item:nth-child(3) {
+    background-image: url('../../public/images/-seo.jpg');
+}
+#services .service-item:nth-child(4) {
+    background-image: url('../../public/images/servidor.jpg');
 }
 #services .service-item::after {
     content: '';

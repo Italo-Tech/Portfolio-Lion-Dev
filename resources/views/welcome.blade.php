@@ -55,42 +55,46 @@
         <div class="services container-a">
             <div class="service-top">
                 <h1 class="section-title">Serv<span>i</span>ços</h1>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum deleniti maiores pariatur assumenda quas
-                    magni et, doloribus quod voluptate quasi molestiae magnam officiis dolorum, dolor provident atque molestias
-                    voluptatum explicabo!</p>
+                <p>O Lion Dev é uma empresa de criação de sites institucionais com a finalidade de
+                    registrar a marca de sua empresa no mundo digital. Tenha o encanto de seus clientes
+                    por sua prestação de serviço através de um clique.</p>
             </div>
             <div class="service-bottom">
+                {{--WEB DESIGN--}}
                 <div class="service-item">
                     <div class="icon">
-                        <img class="img" src="https://img.icons8.com/bubbles/100/000000/services.png" alt=""/>
+                        <img class="img" src="https://img.icons8.com/bubbles/100/000000/web.png" alt=""/>
                     </div>
                     <h2>Web Design</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis debitis rerum, magni voluptatem sed
-                        architecto placeat beatae tenetur officia quod</p>
+                    <p>Nosso trabalho é garantir que seu site seja atrativo aos olhos de seus clientes,
+                    por isso temos como foco a garantia de lhes oferecer um bom design gráfico.</p>
                 </div>
+                {{--DOMAIN--}}
                 <div class="service-item">
                     <div class="icon">
-                        <img class="img" src="https://img.icons8.com/bubbles/100/000000/services.png" alt=""/>
+                        <img class="img" src="https://img.icons8.com/bubbles/100/000000/domain.png" alt=""/>
                     </div>
-                    <h2>Web Design</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis debitis rerum, magni voluptatem sed
-                        architecto placeat beatae tenetur officia quod</p>
+                    <h2>Domínio</h2>
+                    <p>Escolha o domínio de seu site para que seus clientes através dele acessem sua página e conheça mais sobre a sua
+                        empresa e os serviços prestados.</p>
                 </div>
+                {{--SEO--}}
                 <div class="service-item">
                     <div class="icon">
-                        <img class="img" src="https://img.icons8.com/bubbles/100/000000/services.png" alt=""/>
+                        <img class="img" src="https://img.icons8.com/bubbles/100/000000/google-web-search.png" alt=""/>
                     </div>
-                    <h2>Web Design</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis debitis rerum, magni voluptatem sed
-                        architecto placeat beatae tenetur officia quod</p>
+                    <h2>SEO</h2>
+                    <p>Usamos estratégias de otimização (SEO) para que seu site venha estar entre os primeiros resultados de busca nos
+                        maiores navegadores da internet.</p>
                 </div>
+                {{--SERVER--}}
                 <div class="service-item">
                     <div class="icon">
-                        <img class="img" src="https://img.icons8.com/bubbles/100/000000/services.png" alt=""/>
+                        <img class="img" src="https://img.icons8.com/bubbles/100/000000/stack.png" alt=""/>
                     </div>
-                    <h2>Web Design</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis debitis rerum, magni voluptatem sed
-                        architecto placeat beatae tenetur officia quod</p>
+                    <h2>Servidor</h2>
+                    <p>Seu site é hospedado em um servidor, possibilitando seus clientes visitar sua página a qualquer momento
+                        e em qualquer lugar onde haja internet.</p>
                 </div>
             </div>
         </div>
