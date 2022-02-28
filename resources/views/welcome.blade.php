@@ -110,53 +110,48 @@
             <div class="all-projects">
                 <div class="project-item">
                     <div class="project-info">
-                        <h1>Project 1</h1>
-                        <h2>Coding is Love</h2>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
-                            rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
-                            harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
+                        <h1>Arte e Reforma</h1>
+                        <h2><a href="https://arteereforma.com/" target="_blank">arteereforma.com</a></h2>
+                        <p>O projeto Arte e Reforma é um site institucional com intuito de apresentar
+                        a empresa e seus serviços prestados.</p>
                     </div>
                     <div class="project-img">
-                        <img class="img" src="{{ asset('images/img-1.png') }}" alt="img">
+                        <img class="img" src="{{ asset('images/portfolio-1.png') }}" alt="img">
                     </div>
                 </div>
                 <div class="project-item">
                     <div class="project-info">
-                        <h1>Project 2</h1>
-                        <h2>Coding is Love</h2>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
-                            rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
-                            harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
+                        <h1>D-BOARD</h1>
+                        <h2>dboard.com.br</h2>
+                        <p>O projeto D-BOARD é um site de Dashboard administrativo desenvolvido para aprendizagem de novas tecnologias como VueJS, TailwindCSS, gráfico e componentes visuais.</p>
                     </div>
                     <div class="project-img">
-                        <img class="img" src="{{ asset('images/img-1.png') }}" alt="img">
+                        <img class="img" src="{{ asset('images/portfolio-2.png') }}" alt="img">
                     </div>
                 </div>
                 <div class="project-item">
                     <div class="project-info">
-                        <h1>Project 3</h1>
-                        <h2>Coding is Love</h2>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
-                            rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
-                            harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
+                        <h1>Landing</h1>
+                        <h2>landing.com.br</h2>
+                        <p>O projeto Landing é site de viagens fake desenvolvido para aprendizagem de novas tecnologias, como por exemplo tailwindcss e boas práticas de layouts.</p>
                     </div>
                     <div class="project-img">
-                        <img class="img" src="{{ asset('images/img-1.png') }}" alt="img">
+                        <img class="img" src="{{ asset('images/portfolio-3.png') }}" alt="img">
                     </div>
                 </div>
                 <div class="project-item">
                     <div class="project-info">
-                        <h1>Project 4</h1>
-                        <h2>Coding is Love</h2>
+                        <h1>Beauty Salon</h1>
+                        <h2>beautysalon.com.br</h2>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
                             rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
                             harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
                     </div>
                     <div class="project-img">
-                        <img class="img" src="{{ asset('images/img-1.png') }}" alt="img">
+                        <img class="img" src="{{ asset('images/portfolio-4.png') }}" alt="img">
                     </div>
                 </div>
-                <div class="project-item">
+                {{--<div class="project-item">
                     <div class="project-info">
                         <h1>Project 5</h1>
                         <h2>Coding is Love</h2>
@@ -167,7 +162,7 @@
                     <div class="project-img">
                         <img class="img" src="{{ asset('images/img-1.png') }}" alt="img">
                     </div>
-                </div>
+                </div>--}}
             </div>
         </div>
     </section>
